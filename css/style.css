@@ -43,7 +43,7 @@ body {
   }
   
   .theme-toggle {
-    position: absolute;
+    position: relative;
     left: 1.5rem;  
     top: 1.5rem;   
   }
